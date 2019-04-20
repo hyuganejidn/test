@@ -1,0 +1,59 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(252, 234, 234);
+}
+
+.box-status{
+    position: absolute;
+    left: 50%;
+    top: 5%;
+    transform: translate(-50%, 0%);
+    width: 800px;
+    height: auto;
+    background-color: rgb(239, 239, 252);
+    border: 1px solid red;
+    border-radius: 5px;
+}
+.header .profile{
+    display: inline;
+    text-decoration: none;
+}
+#avatar{
+    width: 45px;
+    padding: 1px;
+    margin: 10px;
+    border-radius: 50%;
+}
+
+.profile div{
+    display: inline;
+}
+.stt-name-user{
+    position: relative;
+    top: -8px;
+    display: inline;
+    font-size: 18px;
+    font-family: sans-serif;
+    cursor: pointer;
+    
+}
+
+.user-name a{
+    text-decoration-color: rgb(0, 0, 0);
+    text-decoration-: 
+}
+img {
+    
+}
+
+/* Content */
+.content {
+    padding: 10px;
+    width: 100%;
+}
+
+.content {
+    padding: 10px;
+    background-image: url('a');
+}
